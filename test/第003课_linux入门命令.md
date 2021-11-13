@@ -56,7 +56,7 @@ command not found的原因：
 
 ![Untitled 1.png](images\Untitled 1.png)
 
-
+![image-20211113163603076](file://D:/08%20git/Notes/test/images/image-20211113163603076.png?lastModify=1636793250)
 
 ![image-20211113163603076](images/image-20211113163603076.png)
 
@@ -91,6 +91,8 @@ pwd 打印当前所在的路径
 ```
 
 如图：
+
+![Untitled 2.png](images/Untitled 2.png?lastModify=1636793250)
 
 ![Untitled 2.png](images\Untitled 2.png)
 
@@ -271,7 +273,7 @@ rm  【选项】    【文件名】   【目录名】
 
 如图：
 
-![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%205.png](images\Untitled 5.png)
+![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%205.png](https://cdn.jsdelivr.net/gh/chenliang1301/Images@main/NotesImages/Untitled%205.png)
 
 # 015节_文件查看和编辑cat_gedit
 
@@ -289,7 +291,11 @@ rm  【选项】    【文件名】   【目录名】
 
 如图：
 
-![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%206.png](images\Untitled 6.png)
+
+
+
+
+![Snipaste_2021-11-13_17-23-41.png](https://github.com/chenliang1301/Images/blob/main/NotesImages/Snipaste_2021-11-13_17-23-41.png)
 
 ```
 2）gedit图形应用程序的编辑器
@@ -327,7 +333,7 @@ reset：重新初始化屏幕，清除历史命令操作记录
 
 如图：
 
-![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%207.png](images\Untitled 7.png)
+![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%207.png](https://i.loli.net/2021/11/13/MHOUXmkaGJ9Ed4h.png)
 
 ```
 2）info
