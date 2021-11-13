@@ -38,7 +38,11 @@ command not found的原因：
 2.它不是可执行的程序
 ```
 
-![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled.png](images\Untitled.png)
+![Untitled.png](第003课_linux入门命令.assets/Untitled.png)
+
+
+
+![image-20211113123226717](第003课_linux入门命令.assets/image-20211113123226717.png)
 
 # 003节_linux命令提示符和linux命令格式
 
