@@ -38,7 +38,7 @@ command not found的原因：
 2.它不是可执行的程序
 ```
 
-![Untitled.png](第003课_linux入门命令.assets/Untitled.png)
+![1ceb032336542c0ed8f9cb7ef1b5a6cc](images/1ceb032336542c0ed8f9cb7ef1b5a6cc.png)
 
 
 
