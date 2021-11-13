@@ -1,6 +1,0 @@
-# Note->interview
-
-->notion
-
-->
-
