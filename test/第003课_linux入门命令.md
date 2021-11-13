@@ -42,7 +42,7 @@ command not found的原因：
 
 
 
-![image-20211113123226717](第003课_linux入门命令.assets/image-20211113123226717.png)
+
 
 # 003节_linux命令提示符和linux命令格式
 
