@@ -342,7 +342,7 @@ reset：重新初始化屏幕，清除历史命令操作记录
 
 如图：
 
-![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%208.png](images\Untitled 8.png)
+![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%208.png](https://cdn.jsdelivr.net/gh/chenliang1301/Images@main/NotesImages/202111132217540.png)
 
 ```
 3）--help
