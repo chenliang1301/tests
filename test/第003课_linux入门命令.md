@@ -54,7 +54,7 @@ command not found的原因：
 
 如图：
 
-![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%201.png](images\Untitled 1.png)
+![Untitled 1.png](images\Untitled 1.png)
 
 # 004节_linux常用命令引入
 
