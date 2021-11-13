@@ -40,7 +40,7 @@ command not found的原因：
 
 ![1ceb032336542c0ed8f9cb7ef1b5a6cc](images/1ceb032336542c0ed8f9cb7ef1b5a6cc.png)
 
-
+![1ceb032336542c0ed8f9cb7ef1b5a6cc](images/1ceb032336542c0ed8f9cb7ef1b5a6cc.png)
 
 
 
@@ -55,6 +55,10 @@ command not found的原因：
 如图：
 
 ![Untitled 1.png](images\Untitled 1.png)
+
+
+
+![image-20211113163603076](images/image-20211113163603076.png)
 
 # 004节_linux常用命令引入
 
