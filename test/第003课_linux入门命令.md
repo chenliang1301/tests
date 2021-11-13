@@ -92,6 +92,8 @@ pwd 打印当前所在的路径
 
 如图：
 
+![Untitled 2.png](images\Untitled 2.png)
+
 ![%E7%AC%AC003%E8%AF%BE_linux%E5%85%A5%E9%97%A8%E5%91%BD%E4%BB%A4%20123cbf3f08e84113a3435b22520841c4/Untitled%202.png](images\Untitled 2.png)
 
 # 006、7、8节_cd命令讲解1 _独家记忆方法
