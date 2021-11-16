@@ -25,7 +25,7 @@ int main()
 }
 ```
 
-![sizeof%20&&%20strlen%2059e6b1cd539f49aba038931a2c75c7ab/Untitled.png](D:\08 git\Notes\notion\all\狄泰软件学院\c语言进阶剖析教程\images\Untitled.png)
+![sizeof%20&&%20strlen%2059e6b1cd539f49aba038931a2c75c7ab/Untitled.png](https://cdn.jsdelivr.net/gh/chenliang1301/Images@main/NotesImages/202111162241650.png)
 
     最后的sizeof计算的是指针(sizeof(char *)) 的大小，为4。当适用了于一个结构类型时或变量， sizeof 返回实际的大小， 当适用一静态地空间数组， sizeof 归还全部数组的尺寸。 sizeof 操作符不能返回动态地被分派了的数组或外部的数组的尺寸。
 
